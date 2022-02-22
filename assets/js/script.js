@@ -37,7 +37,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['javascript', 'golang', 'java', 'c#', 'c++'];
+  let text = ['joe', 'moe', 'boe', 'hoe', 'poe'];
 
   text.forEach(function (language, index) {
     typer.move(null);
