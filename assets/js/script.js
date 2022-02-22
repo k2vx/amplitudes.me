@@ -62,7 +62,7 @@ function startMainTyping() {
 }
 
 function switchScreen() {
-  document.title = 'amplitudes.me | home';
+  document.title = 'k2zx fjn gay butt sex i love anal all the time | home';
 
   $('.intro').fadeOut(1000, function () {
     $('.bg-image').fadeIn(1000);
